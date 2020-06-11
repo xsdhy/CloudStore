@@ -1,4 +1,4 @@
-module CloudStore
+module github.com/xsdhy/CloudStore
 
 go 1.13
 
